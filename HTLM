@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pay the World (PTW)</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="hero">
+      <img src="assets/hero-image.png" alt="Peter World Terrorist Squad">
+      <h1>Fighting to Pay the World</h1>
+      <button>Join the Fight</button>
+    </div>
+  </header>
+
+  <section id="introduction">
+    <h2>Introduction</h2>
+    <p>Pay the World (PTW) is a community-driven cryptocurrency...</p>
+  </section>
+
+  <!-- More sections here -->
+
+  <footer>
+    <p>© 2025 Pay the World. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
